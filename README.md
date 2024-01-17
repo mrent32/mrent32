@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/martin-renteria-b8744029a"><img src="https://img.shields.io/badge/LinkedIn-blue?logo={martin-renteria-b8744029a}&logoColor=white&style=for-the-badge"/>
+  <a href="https://linkedin.com/in/martin-renteria-b8744029a"><img src="https://img.shields.io/badge/LinkedIn-blue?logo={martin-renteria-b8744029a}&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCs7V-640lAJ2worjxJxYxbg">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo={martinrenteria4513}&logoColor=white"/>
